@@ -9,3 +9,4 @@
 # Both SQL and Python produced finalcleandata.xlsx after the data was cleaned.
 # Exploratory data analysis was also performed on Python.
 # crime data.xlsx was also added to the finalcleandata.xlsx table.
+# The final code iteration with analysis also can be found at incomeandcrimeslr (4).ipynb.
